@@ -1,2 +1,3 @@
 # hello-world
-short description
+
+Creating the hello-world repository
